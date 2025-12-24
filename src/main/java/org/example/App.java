@@ -10,7 +10,7 @@ import java.io.FileOutputStream;    // Untuk menulis ke file
 import java.io.IOException;         // Menangani error file
 import java.util.*;                 // Struktur data (List, Set, Scanner, dll)
 
-
+//tidak apa apa cuman coba coba
 public class App {
 
     public static void main(String[] args) {
